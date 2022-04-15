@@ -43,7 +43,9 @@ style="vertical-align:top; margin: 4px">
 style="vertical-align:top; margin: 4px">
 
   
-  
+  <img src="https://giphy.com/gifs/code-creating-rockd-hqU2KkjW5bE2v2Z7Q2" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+
   
 
 </p>
