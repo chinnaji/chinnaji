@@ -6,7 +6,7 @@
 ##### . 🌱 Ask me anything about coding with javascript,Typescript and node Js
 ##### . 💞️ I’m looking to collaborate on any project using NodeJS, Next js and React
 ##### . 📫 How to reach me Chibuikennaji306@gmail.com
-##### . 📫  Check Out [My Portfolio](https://chinnaji.com) !
+##### . 📫  Check Out [My Portfolio](https://chinnaji.vercel.app) !
 
 
 
