@@ -1,6 +1,6 @@
 ##### . 👋 Hi, I’m Nnaji Chibuike
 ##### . 👀 I’m a  software Developer
-##### . 👀 Lover of Open Source contributions
+##### . 👀 Still creating a path in Open Source contributions
 ##### . 🌱 I’m currently into React and Node js, with the use of frameworks like Nextjs
 ##### . 📫 I'm currently working as a fullstack web development intern @justwebtech
 ##### . 🌱 Ask me anything about coding with javascript,Typescript and node Js
