@@ -1,5 +1,4 @@
-##### . 👋 Hi, I’m Nnaji Chibuike
-##### . 👀 I’m a  software Developer
+##### . 👋 Hi, I’m Nnaji Chibuike, a young web Developer and [Youtuber](https://youtube.com/c/Androidpill)
 ##### . 👀 Still creating a path in Open Source contributions
 ##### . 🌱 I’m currently into React and Node js, with the use of frameworks like Nextjs
 ##### . 📫 I'm currently working as a fullstack web development intern @justwebtech
