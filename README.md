@@ -1,6 +1,7 @@
-##### . 👋 Hi, I’m Nnaji Chibuike, a young Software Developer and [Youtuber](https://youtube.com/c/Androidpill). I'm currently building [Grupr](https://www.grupr.nl) 
-##### . 📫 How to reach me Chibuikennaji306@gmail.com
-##### . 📫  Check Out [My Portfolio](https://chinnaji.vercel.app) !
+#### . 👋 Hi, I’m Nnaji Chibuike, a young Software Developer and [Youtuber](https://youtube.com/c/Androidpill). 
+#### . I'm currently building [Grupr](https://www.grupr.nl) 
+#### . 📫 You can reach me on Chibuikennaji306@gmail.com
+#### . 📫  Check Out [My Portfolio](https://chinnaji.vercel.app) !
 
 
 
