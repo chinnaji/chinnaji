@@ -1,9 +1,4 @@
-##### . 👋 Hi, I’m Nnaji Chibuike, a young web Developer and [Youtuber](https://youtube.com/c/Androidpill). I'm currently building [Grupr](https://www.grupr.nl) 
-##### . 👀 Still creating a path in Open Source contributions
-##### . 🌱 I’m currently into React and Node js, with the use of frameworks like Nextjs
-##### . 📫 I'm currently working as a fullstack web development intern @justwebtech
-##### . 🌱 Ask me anything about coding with javascript,Typescript and node Js
-##### . 💞️ I’m looking to collaborate on any project using NodeJS, Next js and React
+##### . 👋 Hi, I’m Nnaji Chibuike, a young Software Developer and [Youtuber](https://youtube.com/c/Androidpill). I'm currently building [Grupr](https://www.grupr.nl) 
 ##### . 📫 How to reach me Chibuikennaji306@gmail.com
 ##### . 📫  Check Out [My Portfolio](https://chinnaji.vercel.app) !
 
